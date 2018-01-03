@@ -64,10 +64,8 @@ IP   198.199.66.220
 
 
 [下载地址 ](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
+
 [下载地址2](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help)
-
-[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-
 
 
 ## 参考：
