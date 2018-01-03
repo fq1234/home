@@ -1,4 +1,4 @@
-# shadowsocks 免 费 翻 墙 服 务
+# shadowsocks 免费翻墙服务
 
 
 
